@@ -6,6 +6,9 @@ on:
 
 jobs:
   test:
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
     uses: ./.github/workflows/build-with-gpg.yml
     secrets:
       GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
