@@ -7,6 +7,8 @@ on:
         required: true
       GPG_KEY_NAME:
         required: true
+      GHPAGES_GITHUB_TOKEN:
+        required: true
 
 jobs:
   build:
@@ -23,7 +25,7 @@ jobs:
         env:
           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
           GPG_KEY_NAME: ${{ secrets.GPG_KEY_NAME }}          
-      - uses: actions/upload-pages-artifact@v1
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          path: ./docs
-      - uses: actions/deploy-pages@v1
+          github_token: ${{ secrets.GHPAGES_GITHUB_TOKEN }}
+          publish_dir: ./docs
