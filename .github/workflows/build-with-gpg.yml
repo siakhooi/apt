@@ -1,0 +1,30 @@
+name: Build
+
+on:
+  workflow_call:
+    secrets:
+      GPG_PRIVATE_KEY:
+        required: true
+      GPG_KEY_NAME:
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - run: sudo apt install gpg
+      - run: ./build.sh
+        env:
+          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+        env:
+          GPG_KEY_NAME: ${{ secrets.GPG_KEY_NAME }}          
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./docs
+      - uses: actions/deploy-pages@v1

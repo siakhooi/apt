@@ -1,0 +1,1 @@
+deb [arch=amd64 signed-by=/usr/share/keyrings/siakhooi-apt.gpg] https://siakhooi.github.io/apt stable main

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Siak Hooi APT Repository</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-flat.css">
+  </head>
+
+  <body>
+    <div class="w3-container">
+      <h1>Siak Hooi APT Repository</h1>
+    </div>
+    <div class="w3-container w3-flat-green-sea">
+      <h2>Packages</h2>
+    </div>
+    <div class="w3-container">
+      <table class="w3-table w3-striped">
+        <tr>
+          <th>Name</th>
+          <th>Installation</th>
+          <th>Source Repo</th>
+        </tr>
+        <tr>
+          <td>Hello Deb!</td>
+          <td><pre style="display:inline">$ sudo apt install hello-deb</style></td>
+            <td><a href="https://github.com/siakhooi/bash-hello-deb">https://github.com/siakhooi/bash-hello-deb</a></td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="w3-container w3-flat-green-sea">
+      <h2>How to use this Repository</h2>
+    </div>
+    <div class="w3-container">
+      <h3>One time setup</h3>
+      <pre>
+        $ sudo curl -L https://siakhooi.github.io/apt/siakhooi-apt.list > /etc/apt/sources.list.d/siakhooi-apt.list
+        $ sudo curl -L https://siakhooi.github.io/apt/siakhooi-apt.gpg  > /usr/share/keyrings/siakhooi-apt.gpg
+    </pre
+      >
+      <h3>Install Packages</h3>
+      <pre>
+        $ sudo apt install hello-deb
+    </pre>
+    </div>
+  </body>
+</html>

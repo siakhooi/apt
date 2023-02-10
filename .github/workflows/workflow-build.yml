@@ -1,0 +1,12 @@
+name: Build with Quality Check
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  test:
+    uses: ./.github/workflows/build-with-gpg.yml
+    secrets:
+      GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+      GPG_KEY_NAME: ${{ secrets.GPG_KEY_NAME }}
