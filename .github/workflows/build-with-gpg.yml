@@ -25,6 +25,11 @@ jobs:
         env:
           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
           GPG_KEY_NAME: ${{ secrets.GPG_KEY_NAME }}          
+      - run: find docs
+      - uses: actions/upload-artifact@v3
+        with:
+          name: docs
+          path: ./docs/
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GHPAGES_GITHUB_TOKEN }}
