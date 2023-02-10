@@ -1,0 +1,13 @@
+Package: hello-deb
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: coreutils, bash
+Filename: pool/main/binary-amd64/hello-deb_1.0.0_amd64.deb
+Size: 1046
+MD5sum: 9266fa4652b8ac3ae93bf9e3721bc21e
+SHA1: b59fc9948f9c56413665deb4c87a6263c0e1c7d7
+SHA256: 78ae40983b2c7ab4f66baea3abdfb2acf0c51e766a87da0378af4c2f004fd4a6
+Homepage: <http://siakhooi.github.io/bash-hello-deb>
+Description: A program that prints Hello Deb!
+
