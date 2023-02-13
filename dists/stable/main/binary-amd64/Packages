@@ -11,3 +11,16 @@ SHA256: 225a595448ab0557d21627f40d2dad87f3d927939e21983890ba38ab783f3500
 Homepage: <http://siakhooi.github.io/bash-hello-deb>
 Description: A program that prints Hello Deb! with green color
 
+Package: siakhooi-devutils-echo-colors
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: coreutils, bash
+Filename: pool/main/binary-amd64/siakhooi-devutils-echo-colors_1.0.0_amd64.deb
+Size: 1486
+MD5sum: 7f23fd10218b9eba9afa09061bd28539
+SHA1: 087e3c871b1bc256b27dc22f7965a306e10699fb
+SHA256: 5bac73a6d1e7a1be79182542a1ca99f750bc5199292bcf1d86b65e0bfbc94567
+Homepage: <https://github.com/siakhooi/bash-devutils-echo-colors>
+Description: Several echo commands to print text with colors.
+
