@@ -11,6 +11,19 @@ SHA256: 225a595448ab0557d21627f40d2dad87f3d927939e21983890ba38ab783f3500
 Homepage: <http://siakhooi.github.io/bash-hello-deb>
 Description: A program that prints Hello Deb! with green color
 
+Package: siakhooi-devutils-date-formats
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: coreutils, bash
+Filename: pool/main/binary-amd64/siakhooi-devutils-date-formats_1.0.0_amd64.deb
+Size: 1432
+MD5sum: 25f73be80a80daca88902fdd55b14b95
+SHA1: fdad412bf0e7b550d63b16c411e305fc1224509e
+SHA256: 4e2738a400b6f660395845980c33bc0396fd8e39ab4fbf9e3f65506893c45b29
+Homepage: <https://github.com/siakhooi/bash-devutils-date-formats>
+Description: Several commands to print date with predefined formats.
+
 Package: siakhooi-devutils-echo-colors
 Version: 1.0.0
 Architecture: amd64
