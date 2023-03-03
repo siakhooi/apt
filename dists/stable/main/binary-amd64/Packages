@@ -25,15 +25,15 @@ Homepage: <https://github.com/siakhooi/bash-devutils-indent>
 Description: command to indent line of texts with a prefix.
 
 Package: siakhooi-devutils
-Version: 1.0.0
+Version: 1.1.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
-Depends: siakhooi-devutils-echo-colors, siakhooi-devutils-date-formats
-Filename: pool/main/binary-amd64/siakhooi-devutils_1.0.0_amd64.deb
-Size: 974
-MD5sum: 777b73925624c5d6302695071f725c69
-SHA1: b88f7ba353491bb8ff378fff4973a3e87cdff266
-SHA256: 3d5be1b56d6a154563cc6da839163edf6f352856071d4e7c6dd856d77106ee28
+Depends: siakhooi-devutils-echo-colors, siakhooi-devutils-date-formats, siakhooi-devutils-indent
+Filename: pool/main/binary-amd64/siakhooi-devutils_1.1.0_amd64.deb
+Size: 990
+MD5sum: a1debbe9bcaaccb0f45e0c8d51f60f0d
+SHA1: 127800aa14bce4cf3d81e184247645d1ba69335b
+SHA256: 7fe6467995ea28ba6dc3de7f7028196ff8ba1ecb9e3b81dbc141ecd3c6fb437e
 Homepage: <https://github.com/siakhooi/bash-devutils>
 Description: parent package for all siakhooi-devutils-* packages.
 
