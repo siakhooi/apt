@@ -63,3 +63,16 @@ SHA256: 5bac73a6d1e7a1be79182542a1ca99f750bc5199292bcf1d86b65e0bfbc94567
 Homepage: <https://github.com/siakhooi/bash-devutils-echo-colors>
 Description: Several echo commands to print text with colors.
 
+Package: siakhooi-devutils-indent
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: coreutils, bash
+Filename: pool/main/binary-amd64/siakhooi-devutils-indent_1.0.0_amd64.deb
+Size: 1258
+MD5sum: b069c7f9ca49b5a66495c10bfc35b208
+SHA1: 4502c30aa7973ad3b5a4549d7be2274b143a4181
+SHA256: f08d86949d0c2927ff58045c8f9d4fac1dab4a718d022f76bb04fc0c9e1f7f0a
+Homepage: <https://github.com/siakhooi/bash-devutils-indent>
+Description: command to indent line of texts with a prefix.
+
