@@ -63,3 +63,16 @@ SHA256: 2ea11d7b2550f107b14c9b0d5275e547d24f30bef920aab88da94c9847b8ff04
 Homepage: <https://github.com/siakhooi/bash-devutils-indent>
 Description: command to indent line of texts with a prefix.
 
+Package: siakhooi-image-sitter
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: bash, coreutils, findutils, grep, siakhooi-devutils-echo-colors
+Filename: pool/main/binary-amd64/siakhooi-image-sitter_1.0.0_amd64.deb
+Size: 4978
+MD5sum: f575d25fae6357a7b1d5bd85136c8946
+SHA1: 57a97f9e3b981959fb0061bc732a21c9810f1364
+SHA256: c352d8544110351116f3816cfc0f2b44c5028ee432814aa12a60d8e72d2a15ac
+Homepage: <https://github.com/siakhooi/image-sitter>
+Description: Programs to take care of your container images.
+
