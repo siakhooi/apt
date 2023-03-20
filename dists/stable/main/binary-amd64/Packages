@@ -12,15 +12,15 @@ Homepage: <http://siakhooi.github.io/bash-hello-deb>
 Description: A program that prints Hello Deb! with green color
 
 Package: siakhooi-devutils
-Version: 1.1.1
+Version: 1.2.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
-Depends: siakhooi-devutils-echo-colors, siakhooi-devutils-date-formats, siakhooi-devutils-indent
-Filename: pool/main/binary-amd64/siakhooi-devutils_1.1.1_amd64.deb
-Size: 1184
-MD5sum: a28965474fa0994666aa4ca87cd30708
-SHA1: d2954ae92fd4874d6ee77869695fca9a957b541b
-SHA256: cce5896847277f78f818fb8c31988eecbfefda94a849592868e2dac93bb59cf2
+Depends: siakhooi-devutils-echo-colors, siakhooi-devutils-date-formats, siakhooi-textutils
+Filename: pool/main/binary-amd64/siakhooi-devutils_1.2.0_amd64.deb
+Size: 1208
+MD5sum: bf8ac813796153850b463123f71a14d4
+SHA1: f407f16eaa1772a253d85e4649d420266ed6eac1
+SHA256: 7fc0a651bd9cc888454f2780957221c94747b95b96db53e012d3706d48990d1d
 Homepage: <https://github.com/siakhooi/bash-devutils>
 Description: parent package for all siakhooi-devutils-* packages.
 
