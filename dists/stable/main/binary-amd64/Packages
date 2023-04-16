@@ -109,9 +109,9 @@ Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash, findutils
 Filename: pool/main/binary-amd64/siakhooi-textutils_1.5.0_amd64.deb
 Size: 3472
-MD5sum: df1c81e01533562df50314e06229f641
-SHA1: e8e8eb61eb4ef23d4026405da7f527a9c235fbfe
-SHA256: 19ddc5e810074feff91e4a00e171c9fd404b601f316656fdb222972160ab628b
+MD5sum: f881bf853917f99398375203d52b93a3
+SHA1: 34ac983410dfc34ac387a246399466b20fa0da9e
+SHA256: 06a5efe20b68c3808bc2fbd66642fa440873457b1495d2dc4573b79ab3eb9c34
 Homepage: <https://github.com/siakhooi/bash-textutils>
 Description: commands to transform line of texts.
 
