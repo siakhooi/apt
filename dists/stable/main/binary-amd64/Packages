@@ -77,15 +77,15 @@ Homepage: <https://github.com/siakhooi/image-runner>
 Description: Programs to run container images for dev/testing purposes.
 
 Package: siakhooi-image-sitter
-Version: 1.0.2
+Version: 1.1.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: bash, coreutils, findutils, grep, siakhooi-devutils-echo-colors
-Filename: pool/main/binary-amd64/siakhooi-image-sitter_1.0.2_amd64.deb
-Size: 5016
-MD5sum: eb29fb6125971d2bac39c90a43cc6c4a
-SHA1: ae9ecfcfcf3fdb66b939c1ef57dfa97efe20ccf3
-SHA256: ada41c772905a40d8a2d83c4afdb1b96059c45edf3d0eda7de6d43acba092e3d
+Filename: pool/main/binary-amd64/siakhooi-image-sitter_1.1.0_amd64.deb
+Size: 5200
+MD5sum: cf5ffed7b396441cb2f9ee5f82067f48
+SHA1: 512369fd17cc9ffe38ff08836b94b84a96140c2d
+SHA256: ca754d437869ac7d7b2b22c732c4188934bffa43e98c74dcf587699fda1dba8c
 Homepage: <https://github.com/siakhooi/image-sitter>
 Description: Programs to take care of your container images.
 
