@@ -90,15 +90,15 @@ Homepage: <https://github.com/siakhooi/image-sitter>
 Description: Programs to take care of your container images.
 
 Package: siakhooi-shed
-Version: 1.7.0
+Version: 1.7.1
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: bash, coreutils, findutils, grep, vim, man-db, sed, siakhooi-devutils-echo-colors (>= 1.0.0), git, siakhooi-textutils (>= 1.3.0), bash-completion
-Filename: pool/main/binary-amd64/siakhooi-shed_1.7.0_amd64.deb
-Size: 17696
-MD5sum: 1da80514380acb5d59498df5935c868b
-SHA1: a47987a4958eb591cea90697908449bc580d7496
-SHA256: df71b64196473ea4aa4757751a6df7171686f16ed3444786b34d27977add9ce0
+Filename: pool/main/binary-amd64/siakhooi-shed_1.7.1_amd64.deb
+Size: 17648
+MD5sum: 1a5b935acc63f0154534a36900e717d8
+SHA1: d6831680c77385808cd55dc57b83488215671e2b
+SHA256: 3af8295d48616ff88533344779b2df0e8871a5566a60e17a5efbc7a02e39fc25
 Homepage: <https://github.com/siakhooi/shed>
 Description: Programs to manage kubernetes environments
 
