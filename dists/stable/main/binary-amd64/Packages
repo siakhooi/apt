@@ -89,6 +89,19 @@ SHA256: ca754d437869ac7d7b2b22c732c4188934bffa43e98c74dcf587699fda1dba8c
 Homepage: <https://github.com/siakhooi/image-sitter>
 Description: Programs to take care of your container images.
 
+Package: siakhooi-java-hello-world
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: default-jre-headless|openjdk-17-jre-headless|openjdk-18-jre-headless|openjdk-19-jre-headless
+Filename: pool/main/binary-amd64/siakhooi-java-hello-world_1.0.0_amd64.deb
+Size: 2548
+MD5sum: 022eb26467c24f57216de851233e30e6
+SHA1: 5bd78b09a201ef913835828c531a04fa21e9ec68
+SHA256: d0558492698a5149a08d971cb977f01787de633a0cd0cdbb48a639dff07cc0b2
+Homepage: <https://github.com/siakhooi/javacli-hello-world>
+Description: Java program to print hello world.
+
 Package: siakhooi-shed
 Version: 1.8.0
 Architecture: amd64
