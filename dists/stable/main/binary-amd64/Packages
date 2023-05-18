@@ -25,15 +25,15 @@ Homepage: <https://github.com/siakhooi/bash-devutils>
 Description: parent package for all siakhooi-devutils-* packages.
 
 Package: siakhooi-devutils-date-formats
-Version: 1.0.1
+Version: 1.0.2
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash
-Filename: pool/main/binary-amd64/siakhooi-devutils-date-formats_1.0.1_amd64.deb
-Size: 1592
-MD5sum: 042fd35736b10ff01b3637aaf7fcc24a
-SHA1: b9195c86ccba95293131bce76e8255c2803a278e
-SHA256: d8fdac0b7fff0729140268238acadeeff7238e94ef689899414fa999731dbaa3
+Filename: pool/main/binary-amd64/siakhooi-devutils-date-formats_1.0.2_amd64.deb
+Size: 1580
+MD5sum: a711a3aaf9abae731f8f7fb5b4b2bc37
+SHA1: e6ba87d49029d0028c063743c7839e9832ac6569
+SHA256: 4c05633a74dc8a09ec58ed88bcc77466ba042406dceaf34e9f5bdcb2e6d7ac64
 Homepage: <https://github.com/siakhooi/bash-devutils-date-formats>
 Description: Several commands to print date with predefined formats.
 
