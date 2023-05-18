@@ -90,15 +90,15 @@ Homepage: <https://github.com/siakhooi/image-sitter>
 Description: Programs to take care of your container images.
 
 Package: siakhooi-java-hello-springboot
-Version: 1.0.0
+Version: 1.0.1
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-17-jre-headless|openjdk-18-jre-headless|openjdk-19-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-java-hello-springboot_1.0.0_amd64.deb
-Size: 8239776
-MD5sum: ff553e28709a3ea00c30653be2086027
-SHA1: 2cb5c6ffb150c95264e34907e8c800bc75297cbd
-SHA256: d8d057d615f6718b427f708a4187f442060b57a8fff2ddff3fb5344944392d9d
+Filename: pool/main/binary-amd64/siakhooi-java-hello-springboot_1.0.1_amd64.deb
+Size: 8239568
+MD5sum: 8bb258b146a9b014d5c225b7f9b60134
+SHA1: e4f233b7a23c1c42c3da56be2ec7ebc237348639
+SHA256: 66dd1a1debe78e895d441c995e5bee72172bc871d24bdee9b63a2bf2a9caf56f
 Homepage: <https://github.com/siakhooi/javacli-hello-springboot>
 Description: Java program to print Hello Springboot.
 
