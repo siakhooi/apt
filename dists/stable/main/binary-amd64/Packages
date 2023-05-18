@@ -103,15 +103,15 @@ Homepage: <https://github.com/siakhooi/javacli-hello-springboot>
 Description: Java program to print Hello Springboot.
 
 Package: siakhooi-java-hello-world
-Version: 1.0.0
+Version: 1.0.1
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-17-jre-headless|openjdk-18-jre-headless|openjdk-19-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-java-hello-world_1.0.0_amd64.deb
+Filename: pool/main/binary-amd64/siakhooi-java-hello-world_1.0.1_amd64.deb
 Size: 2548
-MD5sum: 022eb26467c24f57216de851233e30e6
-SHA1: 5bd78b09a201ef913835828c531a04fa21e9ec68
-SHA256: d0558492698a5149a08d971cb977f01787de633a0cd0cdbb48a639dff07cc0b2
+MD5sum: f1b153fa11db510aa6ee44ae12139b4f
+SHA1: 62c318cab5a738c61d5ddd1210faf5c757425d1f
+SHA256: 944d610efc0ce5179ba44fae1242ab0127ab8ea72ba4a34f9ef51fa2b964b9eb
 Homepage: <https://github.com/siakhooi/javacli-hello-world>
 Description: Java program to print hello world.
 
