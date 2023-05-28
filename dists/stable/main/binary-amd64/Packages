@@ -90,15 +90,15 @@ Homepage: <https://github.com/siakhooi/image-sitter>
 Description: Programs to take care of your container images.
 
 Package: siakhooi-java-do-nothing
-Version: 0.0.1
+Version: 0.0.2
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-17-jre-headless|openjdk-18-jre-headless|openjdk-19-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-java-do-nothing_0.0.1_amd64.deb
-Size: 1871440
-MD5sum: b98ef8a2ce94ea080ef667b169384fbe
-SHA1: 512d196a1731c6269502efea2119c590a081e4d9
-SHA256: b930b4a77dba49ad946d6b5fee06822eaf511850678e1866a5d7dccf7e360793
+Filename: pool/main/binary-amd64/siakhooi-java-do-nothing_0.0.2_amd64.deb
+Size: 1871400
+MD5sum: 60871789076fd806917b3b39a6a56503
+SHA1: 59030414a360de4ed8b76bbd361e4c83218c471b
+SHA256: 76d8fe73fb4deb9b377865696f0234330bf3404e2592c23631cc99182ae95785
 Homepage: <https://github.com/siakhooi/javacli-do-nothing>
 Description: Java program that do nothing.
 
