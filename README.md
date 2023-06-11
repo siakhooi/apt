@@ -22,4 +22,4 @@ Site: <https://siakhooi.github.io/apt/>
 ![workflow](https://github.com/siakhooi/apt/actions/workflows/workflow-build.yml/badge.svg)
 [![Generic badge](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg)](https://www.buymeacoffee.com/siakhooi)
 [![Generic badge](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg)](https://ko-fi.com/siakhooi)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=siakhooi.apt&left_color=grey&right_color=#33cb56)
+![visitors](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-apt)
