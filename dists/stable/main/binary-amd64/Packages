@@ -134,10 +134,10 @@ Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-17-jre-headless|openjdk-18-jre-headless|openjdk-19-jre-headless
 Filename: pool/main/binary-amd64/siakhooi-semvery_0.4.0_amd64.deb
-Size: 1928072
-MD5sum: 66ccf77d20ba24dd0f64e496987cba2f
-SHA1: 388e5abfa5a5b449d5a3f8346d2cca797beee747
-SHA256: 13dbb854470bf1d6099cf48f06c3865c49af2b16d8024d55f56b98c4eaf00e74
+Size: 1930408
+MD5sum: 9ac28395642e5ee91a83355018bf113b
+SHA1: 6a1090067c962009db59c715873d8f30996cda13
+SHA256: a0f48b004e0d8eaf2bdbaf8811071f8ed7341f565dc4cccb5793c2750cd22a68
 Homepage: <https://github.com/siakhooi/javacli-semvery>
 Description: semver utilities
 
