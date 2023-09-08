@@ -129,15 +129,15 @@ Homepage: <https://github.com/siakhooi/javacli-hello-world>
 Description: Java program to print hello world.
 
 Package: siakhooi-semvery
-Version: 0.10.0
+Version: 0.10.1
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-17-jre-headless|openjdk-18-jre-headless|openjdk-19-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-semvery_0.10.0_amd64.deb
-Size: 1936588
-MD5sum: 735526c7dff337cedc25343ddd51e82d
-SHA1: ba32178bb9444359f01161f6e757fd51d7fa00ce
-SHA256: 23d297401ad1d6305c66e1d8fb57b171fee779ab4eddcd19b5fbea93a6ff9704
+Filename: pool/main/binary-amd64/siakhooi-semvery_0.10.1_amd64.deb
+Size: 1936484
+MD5sum: 5a5db5b1bd247b923d18239b4f03df78
+SHA1: 239a61137c7f3c0fb98bca3270d53d9a5984d5ed
+SHA256: 454cc4d37b959a420fee81bc254c115cfc2be2cda4ec65488ef107697b2a1900
 Homepage: <https://github.com/siakhooi/javacli-semvery>
 Description: semver utilities
 
