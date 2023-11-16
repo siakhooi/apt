@@ -69,10 +69,10 @@ Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: bash, coreutils, man-db, sed
 Filename: pool/main/binary-amd64/siakhooi-image-runner_1.7.0_amd64.deb
-Size: 6040
-MD5sum: 4bf817d80b571b2eeef9dafdb3329b20
-SHA1: 423141d475d6def9637234614236d3f5f4968872
-SHA256: 5b001d28545f2d21cd5bbfb4a948262dbc294e6ff5fbe044b8bc6c9d30f83cf4
+Size: 6076
+MD5sum: cdfc076358ee0c44055b285aec0f0ab5
+SHA1: e5a91ba285bd349de8399d78d56de1f1f27297a7
+SHA256: a9fc2eeaefa6515d3875254d75fbce81af9a341fe632db17b175d436878028ab
 Homepage: <https://github.com/siakhooi/image-runner>
 Description: Programs to run container images for dev/testing purposes.
 
