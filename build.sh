@@ -1,32 +1,46 @@
-#!/bin/sh
+#!/bin/bash
+
+readonly ARCHITECTURE_NAME=amd64
+readonly ARCHITECTURE_BINARY=binary-amd64
+readonly SUITE=stable
+readonly COMPONENT=main
+readonly TARGET=docs
+readonly architecture_path=dists/${SUITE}/${COMPONENT}/${ARCHITECTURE_BINARY}
+
 set -e
+mkdir -p -v "${TARGET}/$architecture_path"
+(
+    cd "${TARGET}" &&
+        dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ \
+            >$architecture_path/Packages
+)
+(
+    cd "${TARGET}" &&
+        dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ |
+        gzip -9 >$architecture_path/Packages.gz
+)
+(
+    cd "${TARGET}" &&
+        dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ |
+        bzip2 >$architecture_path/Packages.bz2
+)
 
-ARCHITECTURE_NAME=amd64
-ARCHITECTURE_BINARY=binary-amd64
-SUITE=stable
-COMPONENT=main
-TARGET=docs
+readonly root_release_file=${TARGET}/dists/${SUITE}/Release
+readonly architecture_release_file=${TARGET}/${architecture_path}/Release
+(./bin/generate-release-header.sh >$root_release_file)
+(./bin/generate-release-header.sh >$architecture_release_file)
 
-mkdir -p $TARGET/dists/${SUITE}/${COMPONENT}/${ARCHITECTURE_BINARY}
-(cd $TARGET && dpkg-scanpackages --arch ${ARCHITECTURE_NAME} pool/ >dists/${SUITE}/${COMPONENT}/${ARCHITECTURE_BINARY}/Packages)
-(cd $TARGET && dpkg-scanpackages --arch ${ARCHITECTURE_NAME} pool/ | gzip -9 >dists/${SUITE}/${COMPONENT}/${ARCHITECTURE_BINARY}/Packages.gz)
-(cd $TARGET && dpkg-scanpackages --arch ${ARCHITECTURE_NAME} pool/ | bzip2 >dists/${SUITE}/${COMPONENT}/${ARCHITECTURE_BINARY}/Packages.bz2)
-
-RELEASE_FILE1=$TARGET/dists/${SUITE}/Release
-RELEASE_FILE2=$TARGET/dists/${SUITE}/${COMPONENT}/${ARCHITECTURE_BINARY}/Release
-(./bin/generate-release-header.sh >$RELEASE_FILE1)
-(./bin/generate-release-header.sh >$RELEASE_FILE2)
-
-G=$(realpath ./bin/generate-release-files.sh)
-(cd $TARGET/dists/${SUITE} && ${G} >>Release)
+generate_releaese_files_bin=$(realpath ./bin/generate-release-files.sh)
+(cd ${TARGET}/dists/${SUITE} && ${generate_releaese_files_bin} >>Release)
 
 GNUPGHOME="$(mktemp -d)"
+readonly GNUPGHOME
 export GNUPGHOME
 
 echo "$GPG_PRIVATE_KEY" | base64 -d | gpg --import
 gpg --list-keys
 
-cat $RELEASE_FILE1 | gpg --default-key "$GPG_KEY_NAME" -abs  >$RELEASE_FILE1.gpg
-cat $RELEASE_FILE2 | gpg --default-key "$GPG_KEY_NAME" -abs  >$RELEASE_FILE2.gpg
+cat $root_release_file | gpg --default-key "$GPG_KEY_NAME" -abs >"${root_release_file}.gpg"
+cat $architecture_release_file | gpg --default-key "$GPG_KEY_NAME" -abs >$architecture_release_file.gpg
 
-cat $RELEASE_FILE1 | gpg --default-key "$GPG_KEY_NAME" -abs --clearsign  >$TARGET/dists/${SUITE}/InRelease
+cat $root_release_file | gpg --default-key "$GPG_KEY_NAME" -abs --clearsign >${TARGET}/dists/${SUITE}/InRelease

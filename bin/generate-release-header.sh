@@ -1,7 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 set -e
 
-cat << EOF
+cat <<EOF
 Origin: Siak Hooi APT Repository
 Suite: stable
 Version: 1.0
