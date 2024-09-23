@@ -4,19 +4,19 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Siak Hooi APT Repository
-Date: Thu, 25 Apr 2024 10:30:17 +0000
+Date: Mon, 23 Sep 2024 00:35:35 +0000
 MD5Sum:
  ea1c157d04a5b65745d51280086d35a4 2246 main/binary-amd64/Packages.bz2
  1e603fce97ec38fafc973bfe0e9f16ed 7011 main/binary-amd64/Packages
  88b390b65315808accc6fb9562f41835 2220 main/binary-amd64/Packages.gz
- 4f3e46c5685d367a62b77208fce8b28d 174 main/binary-amd64/Release
+ e2b65e12161621bbeba2519f9c127ca0 174 main/binary-amd64/Release
 SHA1:
  0aa57666c307fd820cdc427281857f2a51319649 2246 main/binary-amd64/Packages.bz2
  a3bd2bdab257b2653312edbbb915c9bdbc0d5085 7011 main/binary-amd64/Packages
  e8673ba2039c86154aec5b9ea3400c19857d54ad 2220 main/binary-amd64/Packages.gz
- 8e67703ab6be98fcb0190532a37d4b901f43b18c 174 main/binary-amd64/Release
+ 750e2ce06ca76b0269c7a8429183cdc419725e93 174 main/binary-amd64/Release
 SHA256:
  d5044fdbe23b8c49ce3dfb236369ecdea08c6016b1dd3fcb2c1114f71d3c65de 2246 main/binary-amd64/Packages.bz2
  9ff757fc26f6529aff78c092d13d6359ea97a146d334a22af8af32842fba9c75 7011 main/binary-amd64/Packages
  f9e5fe591b25cc1da1b7f3e05978d4f63ac69f4a610dd424e1f4498a533c6b6d 2220 main/binary-amd64/Packages.gz
- 4f066be4af4fb0c046ad83f70265cb37240b7ad43e4c784f6f0d35caffa17ba3 174 main/binary-amd64/Release
+ a7e077906f640df20c6e7ec8aade1b161668068cd2902a2870a258949c443289 174 main/binary-amd64/Release
