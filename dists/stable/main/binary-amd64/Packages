@@ -64,15 +64,15 @@ Homepage: <https://github.com/siakhooi/bash-devutils-indent>
 Description: command to indent line of texts with a prefix.
 
 Package: siakhooi-image-runner
-Version: 1.8.0
+Version: 1.8.2
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: bash, coreutils, man-db, sed
-Filename: pool/main/binary-amd64/siakhooi-image-runner_1.8.0_amd64.deb
-Size: 6296
-MD5sum: a6548f41c2826e863abf46b2c9cf9d30
-SHA1: e1de6a314dd254ebadd1db7c92aac46e068688b3
-SHA256: ee5ff340572f5d12627fe28698447dad091b69a10077ff23f04a1d1a454d14ef
+Filename: pool/main/binary-amd64/siakhooi-image-runner_1.8.2_amd64.deb
+Size: 6300
+MD5sum: 5c9de836ae87618a176af488a848e51e
+SHA1: 9f9773f31336cd4834bc071b46742af606f6443f
+SHA256: cbfe83506ea9f00a7f3a3838ac23a7f217c9d6ca09dd601137f23333b2595f7b
 Homepage: <https://github.com/siakhooi/image-runner>
 Description: Programs to run container images for dev/testing purposes.
 
