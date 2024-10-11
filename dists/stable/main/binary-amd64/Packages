@@ -31,9 +31,9 @@ Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash
 Filename: pool/main/binary-amd64/siakhooi-devutils-date-formats_1.0.4_amd64.deb
 Size: 1584
-MD5sum: 8a2bb41952236081c3dbc4308a290599
-SHA1: b2863af4c7e278a7010cca9af771e37d8a31ce9e
-SHA256: b7951b27e9d017b6107e854c158c110e2a0df3ce9ef54c669b3c2be99b045073
+MD5sum: 108a5ec46a1ce6af760a425515419b58
+SHA1: bfc9f24a8bdf9ff61aad33d08333c3cc62006e57
+SHA256: 7e23f5a7e5205e15feb82d14415f1888168d1f48ffb3e3f2b1d7a80580050d58
 Homepage: <https://github.com/siakhooi/bash-devutils-date-formats>
 Description: Several commands to print date with predefined formats.
 
