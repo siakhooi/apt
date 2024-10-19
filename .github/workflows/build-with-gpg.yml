@@ -24,13 +24,13 @@ jobs:
       - run: ./build.sh
         env:
           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
-          GPG_KEY_NAME: ${{ secrets.GPG_KEY_NAME }}          
+          GPG_KEY_NAME: ${{ secrets.GPG_KEY_NAME }}
       - run: find docs
       - uses: actions/upload-artifact@v4
         with:
           name: docs
           path: ./docs/
-      - uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GHPAGES_GITHUB_TOKEN }}
           publish_dir: ./docs
