@@ -10,19 +10,19 @@ readonly architecture_path=dists/${SUITE}/${COMPONENT}/${ARCHITECTURE_BINARY}
 set -e
 mkdir -p -v "${TARGET}/$architecture_path"
 (
-    cd "${TARGET}" &&
-        dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ \
-            >$architecture_path/Packages
+  cd "${TARGET}" &&
+    dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ \
+      >$architecture_path/Packages
 )
 (
-    cd "${TARGET}" &&
-        dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ |
-        gzip -9 >$architecture_path/Packages.gz
+  cd "${TARGET}" &&
+    dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ |
+    gzip -9 >$architecture_path/Packages.gz
 )
 (
-    cd "${TARGET}" &&
-        dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ |
-        bzip2 >$architecture_path/Packages.bz2
+  cd "${TARGET}" &&
+    dpkg-scanpackages --arch "${ARCHITECTURE_NAME}" pool/ |
+    bzip2 >$architecture_path/Packages.bz2
 )
 
 readonly root_release_file=${TARGET}/dists/${SUITE}/Release
