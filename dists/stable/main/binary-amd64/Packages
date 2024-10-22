@@ -11,6 +11,24 @@ SHA256: 225a595448ab0557d21627f40d2dad87f3d927939e21983890ba38ab783f3500
 Homepage: <http://siakhooi.github.io/bash-hello-deb>
 Description: A program that prints Hello Deb! with green color
 
+Package: hello-groovy
+Source: hello-groovy
+Version: 0.1.0
+Architecture: amd64
+Maintainer: 'Siak Hooi <siakhooi@gmail.com>'
+Installed-Size: 22731
+Depends: default-jre-headless | openjdk-21-jre-headless
+Filename: pool/main/binary-amd64/hello-groovy_0.1.0_amd64.deb
+Size: 21083700
+MD5sum: fe6798137f2afcea2e7fb0d1f29bb249
+SHA1: ae68c90b47d9c7b683eeea4a632fa9515ede3e1f
+SHA256: e09b72ca0b89ecb6ac46c3f1dfc23d3e82f3d7eaad6a1c07e3a7d25c5788dc80
+Section: java
+Priority: optional
+Homepage: 'https://github.com/siakhooi/hello-groovy-cli'
+Description: hello-groovy
+ Hello groovy POC for cli
+
 Package: siakhooi-devutils
 Version: 1.2.1
 Architecture: amd64
