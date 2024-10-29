@@ -173,15 +173,15 @@ Homepage: <https://github.com/siakhooi/shed>
 Description: Programs to manage kubernetes environments
 
 Package: siakhooi-textutils
-Version: 1.7.1
+Version: 1.7.3
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash, findutils, bsdextrautils
-Filename: pool/main/binary-amd64/siakhooi-textutils_1.7.1_amd64.deb
-Size: 4236
-MD5sum: a9198c03d59858afe590e3747cb987ec
-SHA1: ce7b06bf59864e63371b1d9b655a661c97b78a1e
-SHA256: ba8fa68a371a0503011d0b940a4017de1734a6271e15bf5800e8f07981218daf
+Filename: pool/main/binary-amd64/siakhooi-textutils_1.7.3_amd64.deb
+Size: 4240
+MD5sum: 4d7ef5bec36997b6a7724dd6ed3cd30b
+SHA1: e60a02da7eba38362e05ba4afc24413e2d05c8fe
+SHA256: 21a885042df04a007941b3b79105116e23b5e0dbe83693076f2848484a6e226e
 Homepage: <https://github.com/siakhooi/bash-textutils>
 Description: commands to transform line of texts.
 
