@@ -62,9 +62,9 @@ Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash
 Filename: pool/main/binary-amd64/siakhooi-devutils-echo-colors_1.3.6_amd64.deb
 Size: 2072
-MD5sum: 02aec55d3b85c8a56a72febda129fe75
-SHA1: 8b0af9be0edd130a193b33afa8002564c04779b3
-SHA256: 039a5fc4e8efd7b9432856b3be711dc576d5e3d87807892b5f6e75eb9110ed58
+MD5sum: bf7c564ef8b1daebe13dd8232b11e5de
+SHA1: ec34bfc80d38291475021fa195fb18c3f21c76f8
+SHA256: d24129219c8a3f1387c386544c819def2f56da4132e952ad1902118596f31d25
 Homepage: <https://github.com/siakhooi/bash-devutils-echo-colors>
 Description: Several echo commands to print text with colors.
 
