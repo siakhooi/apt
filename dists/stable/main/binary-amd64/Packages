@@ -178,10 +178,10 @@ Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash, findutils, bsdextrautils
 Filename: pool/main/binary-amd64/siakhooi-textutils_1.7.4_amd64.deb
-Size: 4240
-MD5sum: f2447d562434d9e3222e676c12cba331
-SHA1: 47b7f1fe337b6cce7533755702ebd4e7d67196bd
-SHA256: bca00bb974a2eb36b68bdac8ee16a5024931916433580c724aab366f3655f788
+Size: 4244
+MD5sum: 5aa3f9fa675173babbd45e4140d1cf2f
+SHA1: b52c53fb84577e4574d6c0b2213e78859b5ea7ca
+SHA256: 252577760c65c40ae3a4304a24f3d6c7793774fc6850bd3c7ed78c3b3dcc4e72
 Homepage: <https://github.com/siakhooi/bash-textutils>
 Description: commands to transform line of texts.
 
