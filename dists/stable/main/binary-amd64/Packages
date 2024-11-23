@@ -13,16 +13,16 @@ Description: A program that prints Hello Deb! with green color
 
 Package: hello-groovy
 Source: hello-groovy
-Version: 0.3.0
+Version: 0.3.1
 Architecture: amd64
 Maintainer: 'Siak Hooi <siakhooi@gmail.com>'
 Installed-Size: 22731
 Depends: default-jre-headless
-Filename: pool/main/binary-amd64/hello-groovy_0.3.0_amd64.deb
-Size: 21083708
-MD5sum: 59c24fb31a70dc7bdf1018db4f6c0293
-SHA1: c69b3d4114a0abfae75eb79d47da8e98a72e8c2a
-SHA256: c19c4958ef769cb8f12e524e0b8c3a61cd78e3ce85a3961afa63b6a5faa37ac0
+Filename: pool/main/binary-amd64/hello-groovy_0.3.1_amd64.deb
+Size: 21083722
+MD5sum: ac9f84ec5a5aded95c3f1595ae5bd975
+SHA1: 8e7b0d4e7657a3921784781cc6d109a94d59d54c
+SHA256: c0da68940819e74fd95e59ec8d577a26d0bf9f306bebde85d596bece66abe7a8
 Section: java
 Priority: optional
 Homepage: 'https://github.com/siakhooi/hello-groovy-cli'
