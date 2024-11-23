@@ -83,7 +83,13 @@
         $ sudo curl -L https://siakhooi.github.io/apt/siakhooi-apt.list | sudo tee /etc/apt/sources.list.d/siakhooi-apt.list > /dev/null
         $ sudo curl -L https://siakhooi.github.io/apt/siakhooi-apt.gpg  | sudo tee /usr/share/keyrings/siakhooi-apt.gpg > /dev/null
         $ sudo apt update
-    </pre>
+      </pre>
+      or with root,
+      <pre>
+        $ curl -L https://siakhooi.github.io/apt/siakhooi-apt.list -o /etc/apt/sources.list.d/siakhooi-apt.list
+        $ curl -L https://siakhooi.github.io/apt/siakhooi-apt.gpg  -o /usr/share/keyrings/siakhooi-apt.gpg
+        $ apt update
+      </pre>
     </div>
     <div class="w3-container w3-flat-green-sea">
       <h2>Reference</h2>
