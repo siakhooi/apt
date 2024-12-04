@@ -31,16 +31,16 @@ Description: hello-groovy
 
 Package: path2json
 Source: path2json
-Version: 0.3.0
+Version: 0.4.0
 Architecture: amd64
 Maintainer: 'Siak Hooi <siakhooi@gmail.com>'
 Installed-Size: 22732
 Depends: default-jre-headless
-Filename: pool/main/binary-amd64/path2json_0.3.0_amd64.deb
-Size: 21084960
-MD5sum: 9100f9bbe7823873f25c981f6d473389
-SHA1: 4fdea96d803493b93fbe0d19fd729c7e44900815
-SHA256: c30f590a19271c3a705c5e1c04ecd7a2e8a37ab918f0515a5c6710bf8030bf2b
+Filename: pool/main/binary-amd64/path2json_0.4.0_amd64.deb
+Size: 21085276
+MD5sum: 5daabacdd04bfd2d318310fbe0e64cde
+SHA1: 5d0977aacd69dd53e97c470c99328fc7381c25e2
+SHA256: f84a47e63827942e82f72209cb5fefee7ab63646dec7f01431a1ee5bc9994f36
 Section: java
 Priority: optional
 Homepage: 'https://github.com/siakhooi/groovycli-path2json'
