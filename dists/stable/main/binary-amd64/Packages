@@ -166,16 +166,16 @@ Description: Java program to print hello world.
 
 Package: siakhooi-path2json
 Source: siakhooi-path2json
-Version: 0.5.0
+Version: 0.6.0
 Architecture: amd64
 Maintainer: 'Siak Hooi <siakhooi@gmail.com>'
-Installed-Size: 22732
+Installed-Size: 22734
 Depends: default-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-path2json_0.5.0_amd64.deb
-Size: 21085278
-MD5sum: 33d5e5d1325430f066bf3172d2fefcd0
-SHA1: 30178532fea1ea552e039de9978ea0b82f460216
-SHA256: dba607430f8d0c5c5f0df32ebb94c5dfa87bbb401bcc7cdb12457a09454ec341
+Filename: pool/main/binary-amd64/siakhooi-path2json_0.6.0_amd64.deb
+Size: 21086840
+MD5sum: 9c73ddeb76b7ab6109e7608328a3cc84
+SHA1: 8d7743447f4c142413b9f618efe0af7d55c62c8a
+SHA256: 9ab1b85bd9b484267e7407130035e0f96798964b1192ee4690869513f5b06adf
 Section: java
 Priority: optional
 Homepage: 'https://github.com/siakhooi/groovycli-path2json'
