@@ -172,10 +172,10 @@ Maintainer: 'Siak Hooi <siakhooi@gmail.com>'
 Installed-Size: 22736
 Depends: default-jre-headless
 Filename: pool/main/binary-amd64/siakhooi-path2json_0.9.1_amd64.deb
-Size: 21088242
-MD5sum: ef1098b85289ae61bd85de635cc21334
-SHA1: d83ab5c8569f5874cc71af5f23821f330fc48feb
-SHA256: b4e0c72012d86cb58ac6234b5b48632d9395a6a91598b907f5c59fd95200d09c
+Size: 21088238
+MD5sum: 7422d8f8565eeef6d559d5a68f9b460e
+SHA1: 6edd2871c5d0ac338b7c844669aff1db079ead36
+SHA256: ada374765898fddbee5c948528c8b614a5cc7983fadc3d7472c66f6d04b68c04
 Section: java
 Priority: optional
 Homepage: 'https://github.com/siakhooi/groovycli-path2json'
