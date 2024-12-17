@@ -183,15 +183,15 @@ Description: siakhooi-path2json
  print path as json
 
 Package: siakhooi-semvery
-Version: 0.10.3
+Version: 0.11.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-17-jre-headless|openjdk-18-jre-headless|openjdk-19-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-semvery_0.10.3_amd64.deb
-Size: 1936684
-MD5sum: 81cdb03fdfa8e947254ef7aaf269dd41
-SHA1: eea0dbe0f7c940dd85bd28f05b63dbf3d7a6e42e
-SHA256: 41b5191946356fd693c5634b5c58e7562e99dac6e8da642fb2ce354ace75c102
+Filename: pool/main/binary-amd64/siakhooi-semvery_0.11.0_amd64.deb
+Size: 1936644
+MD5sum: 2e20ce432871dbdba4fd1f987bc6a494
+SHA1: e3618ead1d470e4beb8e045119b5e30d6c96df0d
+SHA256: 3a33e6c0c8324ae346d7c5a1c19232a2bdaecdf6fb232f5a4bdfceda6022a135
 Homepage: <https://github.com/siakhooi/javacli-semvery>
 Description: semver utilities
 
