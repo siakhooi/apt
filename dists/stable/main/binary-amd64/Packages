@@ -47,6 +47,19 @@ Homepage: 'https://github.com/siakhooi/groovycli-path2json'
 Description: path2json
  print path as json
 
+Package: siakhooi-cerg
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: coreutils, bash, openssl, findutils
+Filename: pool/main/binary-amd64/siakhooi-cerg_0.1.0_amd64.deb
+Size: 1552
+MD5sum: aece93f9120881975eb66da0e7ed1f80
+SHA1: e518edaa0af88c51c35eea8111ffa0c0f5f4b87d
+SHA256: 8d503593243d3d688fecb089b427cd09899c71b7aa1cef9ce4539fd8968ec39d
+Homepage: <https://github.com/siakhooi/bash-cerg>
+Description: certificate generators for development purposes
+
 Package: siakhooi-devutils
 Version: 1.3.0
 Architecture: amd64
