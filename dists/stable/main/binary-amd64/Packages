@@ -178,15 +178,15 @@ Homepage: <https://github.com/siakhooi/javacli-hello-world>
 Description: Java program to print hello world.
 
 Package: siakhooi-ore
-Version: 0.8.0
+Version: 0.9.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: bash, coreutils, siakhooi-devutils-echo-colors, siakhooi-textutils, bsdextrautils, sed, findutils
-Filename: pool/main/binary-amd64/siakhooi-ore_0.8.0_amd64.deb
-Size: 2952
-MD5sum: d9ec120df400c832f889fb401ede52f8
-SHA1: 06fe2d5d719e36dfaa34c33fa92a602ab512b16f
-SHA256: 4ea13113fe515fb68ad36387b7e3f0848a6985d3fa0cd73844401b97953ab800
+Filename: pool/main/binary-amd64/siakhooi-ore_0.9.0_amd64.deb
+Size: 3220
+MD5sum: 69fb43b26de9d55c0bbc0936921611b3
+SHA1: 7ec950bcbbd7f4ddf6f9824a3eb6e48fe756ae1e
+SHA256: 3fdf00997cd39f8c8fdd49528c6709a4b79634696b0ed2a653e77d5ae2cb9e3a
 Homepage: <https://github.com/siakhooi/ore>
 Description: tools to automatically download,distribute,housekeep artifacts from various sources
 
