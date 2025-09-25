@@ -100,15 +100,15 @@ Homepage: <https://github.com/siakhooi/bash-devutils-date-formats>
 Description: Several commands to print date with predefined formats.
 
 Package: siakhooi-devutils-echo-colors
-Version: 1.6.0
+Version: 1.7.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash
-Filename: pool/main/binary-amd64/siakhooi-devutils-echo-colors_1.6.0_amd64.deb
-Size: 3332
-MD5sum: f45463b8889b3e047efbd0fa7960f894
-SHA1: cf982f8012cbd2460c535bc8982167813d104525
-SHA256: 6d01585138dc4f877fca5c819c3b8f98134022405ffba92e5826fcc910c021be
+Filename: pool/main/binary-amd64/siakhooi-devutils-echo-colors_1.7.0_amd64.deb
+Size: 3428
+MD5sum: cd68b63454b26f4e8220a894b40ca6f7
+SHA1: f8ad55682d766b76e7d3246c6c2f631c09cd2c85
+SHA256: 3ac100aff9f4ed80e8ccedf631248cb409120ec0a109729da1e429acff68dcdc
 Homepage: <https://github.com/siakhooi/bash-devutils-echo-colors>
 Description: Several echo commands to print text with colors.
 
