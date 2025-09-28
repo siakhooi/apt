@@ -74,15 +74,15 @@ Homepage: <https://github.com/siakhooi/bash-cerg>
 Description: certificate generators for development purposes
 
 Package: siakhooi-devutils
-Version: 1.3.0
+Version: 1.4.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
-Depends: siakhooi-devutils-echo-colors, siakhooi-devutils-date-formats, siakhooi-textutils
-Filename: pool/main/binary-amd64/siakhooi-devutils_1.3.0_amd64.deb
-Size: 1192
-MD5sum: 54fe0ec9f093a830133a3e8a855db32c
-SHA1: 70ff64d43aa08958ebfc94ea3f88e9268d8f84d4
-SHA256: 74a5b8fc4d87beb1ee2a1738ab0206d55cc3f1f9e80f4658f53c390ed255b0f4
+Depends: siakhooi-devutils-echo-colors, siakhooi-devutils-date-formats, siakhooi-textutils, siakhooi-fileutils
+Filename: pool/main/binary-amd64/siakhooi-devutils_1.4.0_amd64.deb
+Size: 1316
+MD5sum: 3e45ba1dda2b61061497cee0e67fdf40
+SHA1: 77b18b60c7db3b61bf7a0306a82a17ab00f50751
+SHA256: 237a76173b9c9ff0f1ea72fe6d4b1e86123835b4a42b7e275c8f18600e23f436
 Homepage: <https://github.com/siakhooi/bash-devutils>
 Description: parent package for all siakhooi-devutils-* packages.
 
