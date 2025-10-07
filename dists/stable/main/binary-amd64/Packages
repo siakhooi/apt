@@ -248,15 +248,15 @@ Homepage: <https://github.com/siakhooi/javacli-semvery>
 Description: semver utilities
 
 Package: siakhooi-shed
-Version: 1.30.0
+Version: 1.31.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: bash, coreutils, findutils, grep, vim, man-db, sed, siakhooi-devutils-echo-colors (>= 1.0.0), git, siakhooi-textutils (>= 1.7.0), bash-completion, jq
-Filename: pool/main/binary-amd64/siakhooi-shed_1.30.0_amd64.deb
-Size: 22088
-MD5sum: 23a03360794922cee6fec8b58d85bde9
-SHA1: a7761561694156340281c635ec5678e772c7b32a
-SHA256: d929c11cd266ec5a2cc79ce5223efa48210dac8d510c0377664fd29b808bc7f0
+Filename: pool/main/binary-amd64/siakhooi-shed_1.31.0_amd64.deb
+Size: 22160
+MD5sum: bfd93f6b3cd63f2d9d2cb1e98375f3cf
+SHA1: 34896e7cf6d88e64693204fb6c48f8ed3eb6f100
+SHA256: 33d4007d661f4041e03436fa13c850d5814647f890602677cdd8dddb2b3a3029
 Homepage: <https://github.com/siakhooi/shed>
 Description: Programs to manage kubernetes environments
 
