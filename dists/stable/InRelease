@@ -7,36 +7,36 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Siak Hooi APT Repository
-Date: Mon, 27 Oct 2025 21:46:42 +0000
+Date: Wed, 05 Nov 2025 10:21:07 +0000
 MD5Sum:
- 868eec6272454d120a70dc9c1e0f4633 10735 main/binary-amd64/Packages
- 0cb9b954a09487918fc05d980d4acdc9 3240 main/binary-amd64/Packages.bz2
- 89004c1b9f8c11080c13fc62e8947542 174 main/binary-amd64/Release
- e84e816655a5b2afc97d1a2c804ed9fd 3337 main/binary-amd64/Packages.gz
+ 9f5a6edf1469bd968e4a0ae544622dc4 10735 main/binary-amd64/Packages
+ a794ef4c5840c5e5636f6b4842c8499f 3240 main/binary-amd64/Packages.bz2
+ 430bd37cc41a8b83112f8b1e535dc03f 174 main/binary-amd64/Release
+ 32182e3a577967e43b7260ce3189a2e7 3337 main/binary-amd64/Packages.gz
 SHA1:
- 0cb981ba46d85b9b6779f1ebdf7b0626fb8c85fe 10735 main/binary-amd64/Packages
- 26fd1a4c54a5022079f18383bee99c90f5587f29 3240 main/binary-amd64/Packages.bz2
- 2e9516eb6a34e0637c7d977bf439f4088d3416da 174 main/binary-amd64/Release
- d9aa4cc70934f0f5ea262eaa01d2a2170471102a 3337 main/binary-amd64/Packages.gz
+ 1c3491d490df38664a76ab614da07be52a861526 10735 main/binary-amd64/Packages
+ 3006b1c19b358cc60f403601caf22eb3e1c8beaa 3240 main/binary-amd64/Packages.bz2
+ deb925d4334006d7fa3757cc3fc7a0b924f6709e 174 main/binary-amd64/Release
+ bf0ba2b45616048776e5b6155451c36f092887e2 3337 main/binary-amd64/Packages.gz
 SHA256:
- 566fffcb8365d1aabad19d64f57c47ddcc1de7874d4407ac8fb18dc3c8be206f 10735 main/binary-amd64/Packages
- 813bd63ca3a57a0ddabcdbc7c673909d6e84e2ab5262b24eab02e99dfe35eb4b 3240 main/binary-amd64/Packages.bz2
- 57469f309d1c9a7ac5828acd9361dd5912a0c284210d07ba781a1020b5b50de6 174 main/binary-amd64/Release
- 6de9bd8168ca9eb5a5b7df96b7242d10c8e6731ce37d2ff7a6be81a9df15e863 3337 main/binary-amd64/Packages.gz
+ bc57023ad8c5f1d5bd9d3c543110d47bf29c93f4761ab69c6e2d9422f2312472 10735 main/binary-amd64/Packages
+ 06a053bfaa1c660875df5e2deb5942355964b17541fd375802b34ccf62125ba1 3240 main/binary-amd64/Packages.bz2
+ 3ad9269911ac156e9def5860ffaba8f3468291eb9c926ac2a99c3cfc97ae57c4 174 main/binary-amd64/Release
+ 42a11804bb34c570188e17bf2df700eee9c79a9b50053c7e11ca76fda0f63610 3337 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEWpgfrIEkxbzYztaBdCupbhLuY44FAmj/6EMTHHNpYWtob29p
-QGdtYWlsLmNvbQAKCRB0K6luEu5jjjfED/9K2b4A+brx8Btd6jR6ZnRSkfcHVX3t
-5vtdNIV1DSFWAlfLVtB7BvcyP7s+AiXVXijf7I7WTorFy2g90TJvyeYyeP0kTy2E
-r3BskZnbrIuUwDX+z/TLAnNAKAfJxSz3c848211s7rm4suvMUlsV6SY5nS0wFPf0
-JuMWDqQ7WYPQErZhJIzpNtFlvqiGhaYGnxuQeS45XlJiCewlQnBj3hhjZYVdGQjh
-FXIe7zQmzT+DziU16SWi2H1dMvE4WWgaW9WruiNq4zF/+8wvhAvmsyu+37Kb1GTZ
-u6SfR4cce5B3ifeAKKEPK1vmxjDQmBU42EiTZbinXh8Llh6s804sMHeUkDCDf50+
-gOjbgAgm46KEOVN5bDPlndZ/SXyCL1vBsLtNZu2kgSIAHVB1b5ECAvTPTcDbnvGL
-cD/WNn/vm+2puIsJRrIghBMd0frQnKOD2xKtVrhRb1smqvDbCWjGSaMukoinl5Vh
-bmC1/UDXYFioubhQbPQrfBkwICH5IoxDXuh2NU6XDijd/hvJYLXFadOV/RaV6K+8
-Kb5TkyJdpupysvKycczgZaJ/xz6uli8BH06cPQ31QIzoPzIGt+e1aLbLphVqEayo
-FOU+zyuBsZe/1mY7irxVltyV4kzysDRFN2K1K9xXviLfyIBUOuWHxk2z7/KtRJdy
-AnDebsJUqnrkIg==
-=lw0T
+iQJHBAEBCgAxFiEEWpgfrIEkxbzYztaBdCupbhLuY44FAmkLJRMTHHNpYWtob29p
+QGdtYWlsLmNvbQAKCRB0K6luEu5jjgKeD/9Nn3ekJGzbN7+QD6Ql8kihCpqi9Ity
+r4J2ZPwtCvL76P0z6acsFt+y6x0baBMoxfE6DwBKABmrjG3DmMxaKNScGFJt24IX
+S2D04ZgrMenphqevfff5BpUxs4OhIT2g2ecYPiiDf2ght7acYerVRN4m8g/43Utm
+RSn9XNuJomWpBMH4YpM8jQusm5TPjk62J5MyO5fXaTsZ7zmo43Pf01l/BJSpIFPT
+nFTm1ImuGfrbEP4uXP6CYAS8lvsqP01s4HPD/+lpw5ky12Dpv6b/qYg+gNWvKVOr
+rPkGNeffSSHfN+UreOGT+Ehjo39BfQzrxbxcKMEuOp4rSi79NxhaOXnXYTR8agj2
+XuLaLjc4KG4txSxUF8PP0SUnHfyJ66eyfEWuGqFlFfp5cyGmmRZCMJK570vfBV/S
+rUo28l5h+1aus8ZfRFQurUxT72y8U1NBYWB9ogQSCbTEszWMblWYLThpQtlaGwlv
+xWuXQ2VQ5JtwYMpLpI16H2ItFSyYwapqikU8TjtaUMHcggAAyzLY5mfrTFY6Xjgr
+LgbmmRaMOkKEy6H8j5hS4iwDikNObIznY0OXDvX9N25K/iDzxxZjgCCVpW8MYS40
+P9TpnA+sQap8aOJfwoP0qM111kLFSrwgnWIXQErssLFadiqzG09m0WKjTZLuYfRu
+dGEQl4v7dxj/4A==
+=4X/h
 -----END PGP SIGNATURE-----
