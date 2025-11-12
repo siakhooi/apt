@@ -126,15 +126,15 @@ Homepage: <https://github.com/siakhooi/bash-devutils-indent>
 Description: command to indent line of texts with a prefix.
 
 Package: siakhooi-ele
-Version: 0.1.0
+Version: 0.1.1
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash
-Filename: pool/main/binary-amd64/siakhooi-ele_0.1.0_amd64.deb
-Size: 1460
-MD5sum: ddbe3d50db30deab1b001e8cd8a5272b
-SHA1: c5572e72caa82303ed8aa9a6ce6fd6a0917864ea
-SHA256: 041025b8d581af979e07c3488c6ae7eca3b229255ea4f952ec3166602f309845
+Filename: pool/main/binary-amd64/siakhooi-ele_0.1.1_amd64.deb
+Size: 1444
+MD5sum: f9f6bcbbd7a7c8ed92c570fe3c84d11c
+SHA1: 3fb1914fe6a26460a9985a09fec0824b1c2f2bb8
+SHA256: 23a680eb68b3029c6bed89e1d0cda793792cbc33b54aabaa86c58a4c21486945
 Homepage: <https://github.com/siakhooi/ele>
 Description: docker compose cluster for local developments
 
