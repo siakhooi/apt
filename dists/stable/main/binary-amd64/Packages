@@ -244,16 +244,16 @@ Description: tools to automatically download,distribute,housekeep artifacts from
 
 Package: siakhooi-path2json
 Source: siakhooi-path2json
-Version: 0.9.1
+Version: 1.0.1
 Architecture: amd64
 Maintainer: 'Siak Hooi <siakhooi@gmail.com>'
-Installed-Size: 22736
+Installed-Size: 23873
 Depends: default-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-path2json_0.9.1_amd64.deb
-Size: 21088238
-MD5sum: 7422d8f8565eeef6d559d5a68f9b460e
-SHA1: 6edd2871c5d0ac338b7c844669aff1db079ead36
-SHA256: ada374765898fddbee5c948528c8b614a5cc7983fadc3d7472c66f6d04b68c04
+Filename: pool/main/binary-amd64/siakhooi-path2json_1.0.1_amd64.deb
+Size: 22115268
+MD5sum: 6d4feb5ac9d3ebbc8be3a5c9f7978ea6
+SHA1: 4a401bc8001dbe4985b8e174b467bd40ff7f1cda
+SHA256: d6771d5ef5870a0ecd76b9fa614f0f7dc0b4b4313da6a9d58887aa158069a8c6
 Section: java
 Priority: optional
 Homepage: 'https://github.com/siakhooi/groovycli-path2json'
