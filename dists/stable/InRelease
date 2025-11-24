@@ -7,36 +7,36 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Siak Hooi APT Repository
-Date: Mon, 24 Nov 2025 05:54:56 +0000
+Date: Mon, 24 Nov 2025 23:38:50 +0000
 MD5Sum:
  7bd3c05247575601126aadac317a8853 11657 main/binary-amd64/Packages
  e4e3dd8b8e2ea089049f70688b0fd930 3457 main/binary-amd64/Packages.bz2
- 2ae3bd22fac8a8f68f0808f035e2d24e 174 main/binary-amd64/Release
+ 1b2f439bbfce95ea990b0ba592fd24fd 174 main/binary-amd64/Release
  ba42271c84e39ba8dd5ff66da2ead299 3607 main/binary-amd64/Packages.gz
 SHA1:
  5be1e6f4bc8da87372fd91b4b3305b10b571bff7 11657 main/binary-amd64/Packages
  e8d890727f94b033d8086bf1594566350d66f457 3457 main/binary-amd64/Packages.bz2
- c1787f24b7ddf07eeb6fdf44ca5748da0550320f 174 main/binary-amd64/Release
+ a6908ee790bb7101ad428330b8bfb798d15950cf 174 main/binary-amd64/Release
  8163e44c1c39986569d1ecd8fac1826f9d65fd37 3607 main/binary-amd64/Packages.gz
 SHA256:
  3e2ac4a870841050036549cffb3aa5f696a8991d7fe81f2efb80a24bc157b66e 11657 main/binary-amd64/Packages
  cd249ce780447757cce31a3a8384a77381f82597ccd4e8139e2d708a93bc3850 3457 main/binary-amd64/Packages.bz2
- f8be81c4fb907fa5eb5d9e1790b8de61401ac2633ecca29d54218c94778f1f94 174 main/binary-amd64/Release
+ c3a732cf3bcb31f50e20e99063c004ffd244d1c198dbe0e26f0795f0afc431aa 174 main/binary-amd64/Release
  7f6586b8cb189859bed95336bddd5c24348455f81e3d938b1baa73210c9c7eab 3607 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEWpgfrIEkxbzYztaBdCupbhLuY44FAmkj8zETHHNpYWtob29p
-QGdtYWlsLmNvbQAKCRB0K6luEu5jjuwpD/4xoOHuqWYR5uc6y2d3v7lIMoxJaPxV
-D7K5FM9PjXQwONzMxExnUx10mRBm07Bs0WtUCOycS16cOzCk0AB0HTi1NZ2QrVsA
-M3jaY6u0+hptMq1w2Guxe0CJIgviFtpbg0KLwQJzsyivxhV36bk38iv33jCH5fOM
-xE+jpFOCKswVIcgJCGRXf7kwMsFsvrDz0wvezdEOh2cqfsSK6cO6oJKsIdejzC2P
-fBlIcaQAGQOJZV0OeCy7wamJP00NUt5d/BUcfsdijje+YL45eTHxE1QcylUcT0Sb
-DYKrvTJz8TQkgS/Tkca3l0oePlaoX2oSqa6CVvllcZiF8N03kv/nzFoRjHK/Ma4W
-d+EuildRHGaikrtL+WbTbtrNpbyCoYwyFsGDrTfETrjt6LjEmiHyQe5DMQ93SOkD
-iav6j88BK4qAbIVHrCiWQuxvDnn4ksOXNTt5r2TMDTbCbS1YiU5Nq3OIOgShH0Y+
-3zpG3Y4eGlt7kgr2tmUUJash0H2l2lyxpRgIQDn3++M0lQqPyKUgOD+QztnnMWPR
-W0iO8THpxglqBA4Q3vMI9OGMW7OUriGm+lJ8r4iDtx8E6JOt8hF9huN3x7pJqAdz
-GIdJzoBqo4y7QqO8+L2DMRZWaVDof0oAsbp+eFRrEyygBIuuBTpjUaLilWJMY7ii
-57LalgZKd1gLlw==
-=dkGh
+iQJHBAEBCgAxFiEEWpgfrIEkxbzYztaBdCupbhLuY44FAmkk7IoTHHNpYWtob29p
+QGdtYWlsLmNvbQAKCRB0K6luEu5jjoRTEACjXjz8PD1QBp3U21srfnRsxtjQ9TXj
+QrbqbYMNU457uaTCpMYWglcNMzXZ4Zz19EXE+n8w+7lUdKEgqAYur2HpoRsstvKq
+fsOiWU7yUmp4n9VzjVpW5MjQenXSPsELl6dEARl8+EsYo72T6rprFJO1XEjiHJz4
+oG+I4BtyHltpdOo2EqjiFDWhggoAmmKl5s07MnAOILHJ0rXucM+ZovysUdsqYyQ9
+3GgVErRGQg9KuSXVcSLqkthOCy8Y1IH+gWk/n0nLudH0S8vSIRa8KEikUXCKZpuR
+5omfpOVIi/cQfXpjVeDXORL5iqpRfcfwAazuCENemxxwXEe2P0KubCHD6VOYbxPk
+EFEjX9jy47baFgvaLqZEkHnN14bEd6WxbQ0HUpiPCOeRGzsE8SNXfQzpFluwykQy
+hygsnhOYOrrBG4VOtFVwmSFl85elOIdHBYK2hoOz3G30wm/zSrn86xfQYeOadR8l
+JpLSYWKGV2C5pBYd4U/nNnGJOcJfkgAqS3dOJUcB3qznkLjvPfpl74TsFznVW9mC
+PwQ2M+91B15QBnbwqKlLAnInUa/HDh+jAj4+VuXzSnMmKtFn5ivIcq53BGCNFnpM
+b+mnY4V9y+uIII17Tkwo36zgLtkoZA+SByhOKsact81CYaKG88dyS/pdogPAoIiA
+7a/G44ApOLfJ5g==
+=cGRz
 -----END PGP SIGNATURE-----
