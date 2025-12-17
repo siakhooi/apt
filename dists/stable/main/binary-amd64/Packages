@@ -131,10 +131,10 @@ Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash
 Filename: pool/main/binary-amd64/siakhooi-devy_0.4.0_amd64.deb
-Size: 2280
-MD5sum: d64cc855b5f604958b1482ceff27e974
-SHA1: 19ccb0c40212126078e61a2af5ad94ee8517dc9d
-SHA256: e9f9a6f2aa69401532e32df2e460a455de7a32e7e373dc6fae77744a985848fe
+Size: 2548
+MD5sum: 3b052341b5424975eb9bee8d882ecb97
+SHA1: 8522a86fc50b905b9915cd13252827e5104db17f
+SHA256: 6f6baac392e56622cac130731cb447fc8650d5b0f2eda1bcaaecbc36d5d64c15
 Homepage: <https://github.com/siakhooi/bash-devy>
 Description: dev scripts for devcontainers/wsl
 
