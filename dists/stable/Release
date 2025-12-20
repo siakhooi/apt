@@ -4,19 +4,19 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Siak Hooi APT Repository
-Date: Fri, 19 Dec 2025 13:29:24 +0000
+Date: Sat, 20 Dec 2025 08:23:59 +0000
 MD5Sum:
- 743abfe2ce1389aff9c6dd800a8bb477 11657 main/binary-amd64/Packages
- eecfd42ef0c7ec74b4ef059023d39692 3482 main/binary-amd64/Packages.bz2
- 904dca15ad679828e46ab4576a322ddc 174 main/binary-amd64/Release
- 72991d4622dd958ea5ec30e410812d7d 3622 main/binary-amd64/Packages.gz
+ 11fcae9dd3ccc5279a4a4217e947681a 11657 main/binary-amd64/Packages
+ 56b1207446bebf5fec044b00d75a9293 3482 main/binary-amd64/Packages.bz2
+ 25bb16f1dde79d7b66115dbe29a26c0f 174 main/binary-amd64/Release
+ f1d6e838173dda6334d8605984ecdd23 3621 main/binary-amd64/Packages.gz
 SHA1:
- a40b02ad1f98a3fca2f9ec126d19ac3b23e3a481 11657 main/binary-amd64/Packages
- 41e8cdbf04952bb8cc111b721585db1cbcb2b658 3482 main/binary-amd64/Packages.bz2
- 11cda433ddfc353b316fa57bc305cd8648f491f1 174 main/binary-amd64/Release
- a947612167b7e440503b29090b2e3bf1e749a8b6 3622 main/binary-amd64/Packages.gz
+ 51304ed1b4bc4238e06346f8a4966d9738dff756 11657 main/binary-amd64/Packages
+ 54238df3ace548c2a386ca7b6fa111b1d1af5990 3482 main/binary-amd64/Packages.bz2
+ 6cf5a4f6f72c8e4312f97613e27e4f8992356717 174 main/binary-amd64/Release
+ 27de9486de772450eb702e57ba7e21e549027bfa 3621 main/binary-amd64/Packages.gz
 SHA256:
- d65d9eb1e27bf753aa026c7da608c0000b46871a9917adcdbb6851cb906af509 11657 main/binary-amd64/Packages
- 887603cc9a70f19c64e6a8327cd441bf395b4d7de05b87ed237e460e40c53ab3 3482 main/binary-amd64/Packages.bz2
- 232aa7657b20283f2ecda42cce84adb092dc334a718ee5edb28a85cca10620b4 174 main/binary-amd64/Release
- d2e6d5fb6c4a6bedaaa9adde5383f964480672f04185a84c9f1ba716cfa1226f 3622 main/binary-amd64/Packages.gz
+ 23474304014484a19d62af007be812f37cb9e476a5eff3601235f3fcc25867bd 11657 main/binary-amd64/Packages
+ 8f0b7d68d8a929f4c28e597b395eeb88d230208de6f4997dfb7fdb329679864c 3482 main/binary-amd64/Packages.bz2
+ 1ab7a7b59b36f5b2f1bed6c970645653f779326b07358d3a3ca7ff389e9d0c13 174 main/binary-amd64/Release
+ 5ca7a62e82ca72c374f602e9cf6ce44cbdfbf681c006a54570c6f1c048603af4 3621 main/binary-amd64/Packages.gz
