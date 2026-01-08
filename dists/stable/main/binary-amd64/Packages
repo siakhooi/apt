@@ -129,12 +129,12 @@ Package: siakhooi-devy
 Version: 0.7.2
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
-Depends: coreutils, bash
+Depends: coreutils, bash, siakhooi-devutils
 Filename: pool/main/binary-amd64/siakhooi-devy_0.7.2_amd64.deb
-Size: 3476
-MD5sum: 4da40703556cf98fda20e80ab62e763a
-SHA1: dcc98dd03b5c0fe334b2a02097c8dea2cf0418b5
-SHA256: 23e1e854b3d61d76e728ffce4c05465b038298988f25f608b65156bf7bc6845a
+Size: 3764
+MD5sum: 5ea0ca4d6a55a2cfaafa457b89a0ef39
+SHA1: 4a971b81baee67a4505068f65b0a88876dcf25d9
+SHA256: a25308531a8a379a606f32f76f27193d664dc985045f3a11be7e802a82d9b651
 Homepage: <https://github.com/siakhooi/bash-devy>
 Description: dev scripts for devcontainers/wsl
 
