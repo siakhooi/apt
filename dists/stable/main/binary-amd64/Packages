@@ -126,15 +126,15 @@ Homepage: <https://github.com/siakhooi/bash-devutils-indent>
 Description: command to indent line of texts with a prefix.
 
 Package: siakhooi-devy
-Version: 0.13.0
+Version: 0.14.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash, siakhooi-devutils
-Filename: pool/main/binary-amd64/siakhooi-devy_0.13.0_amd64.deb
-Size: 4204
-MD5sum: 9d3c4ea6ac43a0ffff31f1200dda1b86
-SHA1: ea9a7cbaf7a9169835758cb98dabcbc8ea94cb44
-SHA256: 6241751cb5990386588932fe1ddc04b5324daf94c6259e40cbfcebff6e9423f1
+Filename: pool/main/binary-amd64/siakhooi-devy_0.14.0_amd64.deb
+Size: 4344
+MD5sum: dd2e1c300ed8cb8307b8e73ea924c8c9
+SHA1: 78b7bad044adf5efeee40144109f1ce6961de96b
+SHA256: c28a1b0b3731c4d1ed339bea90599d7d6c25e64c499ce9dddfe59013209c1a08
 Homepage: <https://github.com/siakhooi/bash-devy>
 Description: dev scripts for devcontainers/wsl
 
