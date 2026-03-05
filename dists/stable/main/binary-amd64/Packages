@@ -48,15 +48,15 @@ Description: path2json
  print path as json
 
 Package: siakhooi-buildo
-Version: 0.31.0
+Version: 0.32.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash, siakhooi-devutils, util-linux, sed, findutils
-Filename: pool/main/binary-amd64/siakhooi-buildo_0.31.0_amd64.deb
-Size: 10792
-MD5sum: 0c255d11512a525400778e3ed4ee1ba0
-SHA1: cd02917be778db2353651cb575d48850092e67c4
-SHA256: 983a894e665c3a3c03b9381c15145db14a3226042ecf39644b0e7acf36f4c903
+Filename: pool/main/binary-amd64/siakhooi-buildo_0.32.0_amd64.deb
+Size: 10900
+MD5sum: 17c312102ed6c15aaf053ad50d7acc78
+SHA1: 128c973addf3b1acc2f097ea9265c2dedfd67407
+SHA256: 1bf009fbe823a692413288ea77212c5c1eb121b382765f3ad1f702eb393d851f
 Homepage: <https://github.com/siakhooi/buildo>
 Description: powertoy for builder
 
