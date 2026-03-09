@@ -289,6 +289,22 @@ Homepage: 'https://github.com/siakhooi/groovycli-path2json'
 Description: siakhooi-path2json
  print path as json
 
+Package: siakhooi-picsum
+Version: 1.2.0
+Architecture: amd64
+Maintainer: siakhooi
+Installed-Size: 7592
+Filename: pool/main/binary-amd64/siakhooi-picsum_1.2.0_amd64.deb
+Size: 3233832
+MD5sum: 1993b81825b5e5dc65934aef81557c04
+SHA1: 59b4cd7b6d80fe130185a5a56d13e6167c231d44
+SHA256: be2bed76cd0f3fc99c7a4322b2bc57df8d2a53778d03dc2f4f9066d1052c16fe
+Priority: optional
+Homepage: https://github.com/siakhooi/picsum
+Description: fetch photo from https://picsum.photos
+Architecture-Variant: amd64v1
+License: MIT
+
 Package: siakhooi-semvery
 Version: 1.0.6
 Architecture: amd64
