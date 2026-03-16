@@ -243,15 +243,15 @@ Homepage: <https://github.com/siakhooi/jexl-executor>
 Description: jexl scripts executor
 
 Package: siakhooi-json2table
-Version: 1.0.0
+Version: 1.1.0
 Architecture: amd64
 Maintainer: siakhooi
-Installed-Size: 5804
-Filename: pool/main/binary-amd64/siakhooi-json2table_1.0.0_amd64.deb
-Size: 2369066
-MD5sum: 33dcff2b455ecf33e4fa23a778fa270b
-SHA1: d1d767eb023aaab206e3f33a77254bf23aec2fd1
-SHA256: 1055fa6c69f46ff7d11ca81a72e740e5e534457008c4232775a6bde2112840f9
+Installed-Size: 5812
+Filename: pool/main/binary-amd64/siakhooi-json2table_1.1.0_amd64.deb
+Size: 2370936
+MD5sum: e6e86caaa23eb7f6dd420150a004b794
+SHA1: 937a81139aba19edc032f197cc1070d3c047cd35
+SHA256: aea69708238a3a879b7a98a9884c5c4e5115c7c7ca7fbad6e15cccf98030b187
 Priority: optional
 Homepage: https://github.com/siakhooi/json2table
 Description: print json data in tabular format
