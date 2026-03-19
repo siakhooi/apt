@@ -259,15 +259,15 @@ Architecture-Variant: amd64v1
 License: MIT
 
 Package: siakhooi-ore
-Version: 0.20.4
+Version: 0.21.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: bash, coreutils, siakhooi-devutils-echo-colors, siakhooi-textutils, bsdextrautils, sed, findutils
-Filename: pool/main/binary-amd64/siakhooi-ore_0.20.4_amd64.deb
-Size: 7724
-MD5sum: e310353e6c4857b3ef0ad4bb30b4a2bb
-SHA1: 6f858d89f8e4657544280cc864d99f27d223febf
-SHA256: 6380c661aebe0ba287e8df4e9d87d97d72c5442ab5dd8ee27a06b2efd5b142ca
+Filename: pool/main/binary-amd64/siakhooi-ore_0.21.0_amd64.deb
+Size: 7812
+MD5sum: 85946c455c4955a56ee1d0f145995119
+SHA1: 6b4dae650ac0febb33147c5f1376ee3f5e63df87
+SHA256: 72724d03d0d6133690773a29cf1a46f738fb1d22e66d9c4740c6ca4593bd33c2
 Homepage: <https://github.com/siakhooi/ore>
 Description: tools to automatically download,distribute,housekeep artifacts from various sources
 
