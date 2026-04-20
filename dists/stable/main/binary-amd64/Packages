@@ -306,16 +306,16 @@ Architecture-Variant: amd64v1
 License: MIT
 
 Package: siakhooi-semvery
-Version: 1.0.6
+Version: 1.1.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-21-jre-headless|openjdk-22-jre-headless|openjdk-23-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-semvery_1.0.6_amd64.deb
-Size: 1971364
-MD5sum: 28faf25c060b380598a7a0464c7cfd60
-SHA1: ce534cbc06febb8da027b9b92fd0d7095d8cb293
-SHA256: 2bbbe2df49640b52ac47c0ae7ad655d1af9111cfdcaec8962fe4cf65340e6a1e
-Homepage: <https://github.com/siakhooi/javacli-semvery>
+Filename: pool/main/binary-amd64/siakhooi-semvery_1.1.0_amd64.deb
+Size: 4087048
+MD5sum: 3ce78898c0edab295eacde48243e8582
+SHA1: 3abf2a6f653881e4e5f6a8efbbd4388fc3c398be
+SHA256: ee82b4ff2d44b0b17c4cd438aad950c6d3f3a8f3554d2520c9555f0238865336
+Homepage: <https://github.com/siakhooi/semvery>
 Description: semver utilities
 
 Package: siakhooi-shed
