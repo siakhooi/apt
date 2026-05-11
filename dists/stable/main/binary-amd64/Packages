@@ -138,6 +138,19 @@ SHA256: 2fcdc1369f20ac617e06ce65b83936aa819483cd4d6eacce12ce2a617e0b97d8
 Homepage: <https://github.com/siakhooi/bash-devy>
 Description: dev scripts for devcontainers/wsl
 
+Package: siakhooi-echo-colors
+Version: 1.9.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: coreutils, bash
+Filename: pool/main/binary-amd64/siakhooi-echo-colors_1.9.0_amd64.deb
+Size: 4144
+MD5sum: 0d3917ac1186cea9830eef8979ffc7e1
+SHA1: faacea5d0bd97c1d6e4e5cd0bcaad10f340d2eef
+SHA256: 664e50fb659dc964fa4c862aa83fb9f5860779bb65dae79905946196d1c7cf1a
+Homepage: <https://github.com/siakhooi/echo-colors>
+Description: Several echo commands to print text with colors.
+
 Package: siakhooi-ele
 Version: 0.2.0
 Architecture: amd64
