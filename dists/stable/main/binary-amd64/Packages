@@ -73,6 +73,19 @@ SHA256: d98aae5fa5edff8802d06a0f86d500e63e96c56a4caada9930cbb78d98f27171
 Homepage: <https://github.com/siakhooi/cerg>
 Description: certificate generators for development purposes
 
+Package: siakhooi-date-formats
+Version: 1.2.0
+Architecture: amd64
+Maintainer: Siak Hooi <siakhooi@gmail.com>
+Depends: coreutils, bash
+Filename: pool/main/binary-amd64/siakhooi-date-formats_1.2.0_amd64.deb
+Size: 1808
+MD5sum: 45f28245a3b000aa63c228413b0c5c52
+SHA1: 756ee7d5f4b147ae0d119d480d613b271edb75f7
+SHA256: 3209bf3006a4bf4cc30b25e0efb9b0bc4302534e75a4df6c3d1ee9870107a93c
+Homepage: <https://github.com/siakhooi/date-formats>
+Description: Several commands to print date with predefined formats.
+
 Package: siakhooi-devutils
 Version: 1.4.0
 Architecture: amd64
