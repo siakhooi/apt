@@ -178,16 +178,16 @@ Homepage: <https://github.com/siakhooi/ele>
 Description: docker compose cluster for local developments
 
 Package: siakhooi-fileutils
-Version: 0.6.0
+Version: 0.7.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash
-Filename: pool/main/binary-amd64/siakhooi-fileutils_0.6.0_amd64.deb
-Size: 2100
-MD5sum: 6bb483f90d095bc0b77eb1438385647f
-SHA1: d16cfa576c0940127b5801f7ff33b42821f69715
-SHA256: 3ee060f946b6452b037433a5ab2f9f8612f79b44ddc004173377e0add44a9fc4
-Homepage: <https://github.com/siakhooi/bash-fileutils>
+Filename: pool/main/binary-amd64/siakhooi-fileutils_0.7.0_amd64.deb
+Size: 2792
+MD5sum: cb9029a602f8e9379efb401229bd0d70
+SHA1: 1e8b071081f118537ae85c7a94447812a582d4db
+SHA256: 93b7eedb39338a9d0896f796639d7dd699f3dbfc2bfcdf6549a37ad8996d54f4
+Homepage: <https://github.com/siakhooi/fileutils>
 Description: common file utils
 
 Package: siakhooi-image-runner
