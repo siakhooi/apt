@@ -315,15 +315,15 @@ Description: siakhooi-path2json
  print path as json
 
 Package: siakhooi-picsum
-Version: 1.2.1
+Version: 1.2.2
 Architecture: amd64
 Maintainer: siakhooi
 Installed-Size: 7568
-Filename: pool/main/binary-amd64/siakhooi-picsum_1.2.1_amd64.deb
-Size: 3200058
-MD5sum: fef9764d65ea74f717bd06b06ae902b9
-SHA1: f14f27d4ac1567cba4962712b8c47d25ee34b87f
-SHA256: 762093d88e499bfb7c1fbf7488dd99e847009bb87c5ee56876502c692dd26303
+Filename: pool/main/binary-amd64/siakhooi-picsum_1.2.2_amd64.deb
+Size: 3201408
+MD5sum: 2d6a38a50ded174f3ad9215d4ed03cf1
+SHA1: 9f00e1372f5fd7401d55809f48a68b80ba104dd7
+SHA256: 45be653dc2adee21b54c1ef287504d115e1218bd5ba2698859b8f5a8923de8b1
 Priority: optional
 Homepage: https://github.com/siakhooi/picsum
 Description: fetch photo from https://picsum.photos
