@@ -330,15 +330,15 @@ Description: fetch photo from https://picsum.photos
 Architecture-Variant: amd64v1
 
 Package: siakhooi-semvery
-Version: 1.1.0
+Version: 1.1.1
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-21-jre-headless|openjdk-22-jre-headless|openjdk-23-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-semvery_1.1.0_amd64.deb
-Size: 4086992
-MD5sum: 7c45a9cda17ddb0b6747334e6c44bc13
-SHA1: e92f143a8a2c508a9a041b7294e8ecb574c471c5
-SHA256: f789eea41f8a239dcf8d35c94a71373bd90e2e4505329f16a582515067f1451c
+Filename: pool/main/binary-amd64/siakhooi-semvery_1.1.1_amd64.deb
+Size: 4130944
+MD5sum: d2c1841e9a2d6b62e92f4e9c79b4dd75
+SHA1: df057b66563fc47e8071c9c3e6fd831c2d0ef31e
+SHA256: 01658ecefaad8634148d237721fe60f51faa3d851666a86c8e55317e83774082
 Homepage: <https://github.com/siakhooi/semvery>
 Description: semver utilities
 
