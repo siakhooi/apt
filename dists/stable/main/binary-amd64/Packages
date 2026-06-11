@@ -256,15 +256,15 @@ Homepage: <https://github.com/siakhooi/javacli-hello-world>
 Description: Java program to print hello world.
 
 Package: siakhooi-jexl-executor
-Version: 1.6.1
+Version: 1.6.2
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: default-jre-headless|openjdk-21-jre-headless|openjdk-22-jre-headless|openjdk-23-jre-headless
-Filename: pool/main/binary-amd64/siakhooi-jexl-executor_1.6.1_amd64.deb
-Size: 4367744
-MD5sum: d2722087b4d2284ac899e603d205c0a5
-SHA1: bb1b4afc51289f5d1fcf2b4e9511e1d7c590d75b
-SHA256: 547493b812c7fb8d8ae8dc160db9dcb85386afebe7e540eaf3e0405be74d433d
+Filename: pool/main/binary-amd64/siakhooi-jexl-executor_1.6.2_amd64.deb
+Size: 4367868
+MD5sum: 259c7fd35f2184769ebd20158381e153
+SHA1: bd2abcf748b2a9ae45ecf1feef040917dd219c66
+SHA256: 746363af3a9b0fcc33577234cd9e130274eabb55965adc70c4dd6d563ef8c3b5
 Homepage: <https://github.com/siakhooi/jexl-executor>
 Description: jexl scripts executor
 
