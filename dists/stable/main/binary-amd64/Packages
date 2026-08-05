@@ -191,15 +191,15 @@ Homepage: <https://github.com/siakhooi/fileutils>
 Description: common file utils
 
 Package: siakhooi-image-runner
-Version: 1.10.0
+Version: 1.11.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: bash, coreutils, man-db, sed
-Filename: pool/main/binary-amd64/siakhooi-image-runner_1.10.0_amd64.deb
-Size: 7136
-MD5sum: bcbe7fa141ffebc58281a79e9d3a6f48
-SHA1: 155ba2f2569729e0b7ec2fc8bbd411a060da3f55
-SHA256: 1a9869c556feeeadf44e2e663954a4ed8d6d5175790d29668907bd8a4204a605
+Filename: pool/main/binary-amd64/siakhooi-image-runner_1.11.0_amd64.deb
+Size: 7052
+MD5sum: dde15ec7ab11241a9bb20fdc74df7d68
+SHA1: 5c8732b980b2369ed83725cb2d88fad21dfbdb50
+SHA256: f6ca817d7b05f312cd76cc75cc69b7c66d4ae899a1176e5d3414ef20b5d3746f
 Homepage: <https://github.com/siakhooi/image-runner>
 Description: Programs to run container images for dev/testing purposes.
 
