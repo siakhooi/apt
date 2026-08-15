@@ -165,15 +165,15 @@ Homepage: <https://github.com/siakhooi/echo-colors>
 Description: Several echo commands to print text with colors.
 
 Package: siakhooi-ele
-Version: 0.5.0
+Version: 0.6.0
 Architecture: amd64
 Maintainer: Siak Hooi <siakhooi@gmail.com>
 Depends: coreutils, bash
-Filename: pool/main/binary-amd64/siakhooi-ele_0.5.0_amd64.deb
-Size: 3668
-MD5sum: 9775126aba8a82b2d35ec0ea8518fd87
-SHA1: 20df0ec125aef4f855fc12ca7a3773d715b4f830
-SHA256: 72a2e5233f1e39cda1bfc7352e74b7b3ce492dcaf6b7c11462f85660b644cd4c
+Filename: pool/main/binary-amd64/siakhooi-ele_0.6.0_amd64.deb
+Size: 4768
+MD5sum: 74bde57305e71449fa414ec84e768c8e
+SHA1: cd0fff350f27af1b27b936376e9af35fd017a656
+SHA256: 30d53d4bf67a7927d97fdb574703f001ffb4911a8df2e1462dcef0eb4a0878ce
 Homepage: <https://github.com/siakhooi/ele>
 Description: docker compose cluster for local developments
 
